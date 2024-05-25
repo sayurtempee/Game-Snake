@@ -1,0 +1,21 @@
+:root{
+  color: #999999;
+}
+
+body {
+  background-image: url('img/anime3.jpg');
+  background-size: 100%;
+  font-family: Arial, sans-serif;
+}
+  
+#game-canvas {
+  border: 3px solid #000;
+  display: inline-block;
+  text-align: center;
+  background-color: #999999;
+  align-content: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  margin-left: 460px;
+  margin-right: 0px;
+}
